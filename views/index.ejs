@@ -1,0 +1,9 @@
+<h1>Harry Potter Characters</h1>
+
+<%= dataVariable.harryPotterCharacters.description %>
+
+<ul>
+<% for(var i=0; i<dataVariable.characters.length; i++) {%>
+   <li><%= dataVariable.characters[i].name %> (<%= dataVariable.characters[i].occupation %>)</li>
+<% } %>
+</ul>

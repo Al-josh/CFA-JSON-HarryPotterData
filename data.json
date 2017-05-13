@@ -1,0 +1,27 @@
+{
+  "harryPotterCharacters": {
+    "description": "Characters form Harry Potter books"
+  },
+  "characters": [
+    {
+    "name": "Harry Potter",
+    "occupation": "student"
+    },
+    {
+      "name": "Harry Potter",
+      "occupation": "student"
+    },
+    {
+      "name": "Harry Potter",
+      "occupation": "student"
+    },
+    {
+      "name": "Albus Dumbledore",
+      "occupation": "headmaster"
+    },
+    {
+      "name": "Minerva McGonagall",
+      "occupation": "professor"
+    }
+  ]
+}
